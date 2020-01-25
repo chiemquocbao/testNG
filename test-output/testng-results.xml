@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31935" started-at="2020-01-24T20:27:52 CST" finished-at="2020-01-24T20:28:24 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31935" started-at="2020-01-24T20:27:52 CST" finished-at="2020-01-24T20:28:24 CST">
+      <class name="test.BanknCashAccount">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:test.BanknCashAccount@133e16fd]" name="startBrowser" is-config="true" duration-ms="13321" started-at="2020-01-24T20:27:52 CST" finished-at="2020-01-24T20:28:05 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="addNewAccount()[pri:0, instance:test.BanknCashAccount@133e16fd]" name="addNewAccount" duration-ms="16964" started-at="2020-01-24T20:28:05 CST" finished-at="2020-01-24T20:28:22 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewAccount -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:test.BanknCashAccount@133e16fd]" name="closeBrowser" is-config="true" duration-ms="1497" started-at="2020-01-24T20:28:22 CST" finished-at="2020-01-24T20:28:24 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.BanknCashAccount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
